@@ -16,7 +16,7 @@ Clara is an AI-powered assistant designed to automate and personalize profession
 
 ### System Architecture
 
-![Component Diagram](./images/component_diagram.jpg)  
+![data flow diagram (DFD)](./images/component_diagram.jpg)  
 
 ## 🚀 Core Features
 
